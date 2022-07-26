@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Web dev*
+- 🌱 I’m currently learning **Web dev**
 
-- 💬 Ask me about *Flutter and python*
+- 💬 Ask me about **Flutter and python**
 
-- 📫 How to reach me *m_mameri@estin.dz*
+- 📫 How to reach me **m_mameri@estin.dz**
 
-- ⚡ Fun fact *I think I like football*
+- ⚡ Fun fact **I think I like football**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

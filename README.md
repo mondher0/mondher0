@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web dev**
 
-- 💬 Ask me about **Flutter and JavaScript**
+- 💬 Ask me about **REACT and FLUTTER**
 
 - 📫 How to reach me **m_mameri@estin.dz**
 

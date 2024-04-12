@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Dev**
 
-- 💬 Ask me about **REACT and FLUTTER and nextjs**
+- 💬 Ask me about **REACT and FLUTTER and NEXTJS**
 
 - 📫 How to reach me **m_mameri@estin.dz**
 
